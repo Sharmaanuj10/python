@@ -1,8 +1,8 @@
 # now in this we going to import directly and efficently 
 # so lets imprt the data and reduce the file
 
-from data_2 import password as ps   #ps meant passowrd in short
-from data_2 import username as us   #us meant username in short
+from userdata_2 import password as ps   #ps meant passowrd in short
+from userdata_2 import username as us   #us meant username in short
 
 # Now lets user input now
 
