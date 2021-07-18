@@ -1,3 +1,4 @@
+
 webdata= input("Enter the key word : ")
 names = {
     'youtube' : 'subscribe', # here now you can  save  infinte number of password 
