@@ -1,0 +1,17 @@
+def :- using thsi we can define an character to utilize at later  like Print(), Square() {for squarig the number}
+
+   
+def Print():    
+
+    ---snip---      
+    return __        
+       
+Print('x')
+
+: in here i create a parameter  Print() and i can pass any argument for this
+: if  i need some kind of information to perform the task add the requirement at Print('_')
+: We can use Print method any time to performit work which is  defined already that what to do.
+: I can use return to make sure what to return after performing the task .as if I perform 100     
+  task to get 1 value i can easily get only 1 value usig the return method
+
+if you want to make any argument optional just asssign it to ''(middle = '') i mean to make it use if the value are left for it.
