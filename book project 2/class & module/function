@@ -1,0 +1,13 @@
+function which is part of the class is called method
+
+IN the a.upper( ) upper is the atrribute for the the a and 
+simillairly the instance is that we create using the class method if we use the class method to define any or create any object aos that is called the instance in python.
+
+if we use __init__ to intialize 
+
+self indicate the name of the instance which we are creating using the class 
+if we define any atrribute ouside the mehotd so we can chage that using 
+
+@ class method
+def rename(cls):
+  attribute +=1
